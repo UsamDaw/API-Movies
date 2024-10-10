@@ -1,5 +1,6 @@
 # OsmanMovies123
 
+
 ## Bruk av API
 Vi har brukt OMDB API for å hente informasjon om filmer basert på brukersøk. API-et gir tilgang til detaljer som tittel, år, regissør, sjanger, plott og filmplakat. Vi har også brukt API-et til å hente anbefalte filmer basert på søket.
 
